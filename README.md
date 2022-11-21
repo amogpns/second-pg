@@ -1,1 +1,1 @@
-# second-pg
+# second_project
